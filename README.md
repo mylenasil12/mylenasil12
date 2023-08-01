@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💕♥️💙
 
-<!--
-**mylenasil12/mylenasil12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mylena
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo
+
+  mylena.silva.ribeiro@escola.pr.gov.br
+
+  @mylena
+
+  ![](https://tenor.com/bP92t.gif)
